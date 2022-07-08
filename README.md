@@ -1,1 +1,1 @@
-My first readme
+installing betty coding style
